@@ -1,4 +1,4 @@
-# Challenge Galicia Seguros - Squad U+1F680
+# Challenge Galicia Seguros - Squad :rocket:
 
 API de Consulta de Clima
 
