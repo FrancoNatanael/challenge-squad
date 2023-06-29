@@ -12,7 +12,7 @@ API de Consulta del Clima
 3. Desplegar el servicio utilizando Docker, mantener abierta la aplicación Docker Desktop y ejecutar el siguiente comando en una terminar PowerShell:
    - docker-compose up
 
-4. Acceder a la aplicación a través de la siguiente URL y ejecutar las consultas a los endpoints mostrados en el la vista de swagger:
+4. Acceder a la aplicación a través de la siguiente URL y ejecutar las consultas a los endpoints mostrados en el la vista de swagger(se utiliza una db en memoria con entity framework que se carga con datos cuando se ejecuta la aplcación):
    - http://localhost:8080/swagger/index.html
   
 ## Tecnologías y herramientas utilizadas en el proyecto
@@ -23,3 +23,14 @@ API de Consulta del Clima
 - Docker
 - Serilog
    
+## Datos para probar los endpoints 
+
+- Usuario:
+  - Mail: usuario@gmail.com
+  - Password: 999
+- Paises:
+  - Argentina
+  - Estados Unidos
+- Ciudades:
+  - Buenos Aires
+  - Nueva York
