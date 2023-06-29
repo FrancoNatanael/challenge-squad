@@ -20,6 +20,7 @@ API de Consulta del Clima
 - C#
 - ASP.NET Core
 - Entity Framework
+- xUnit (Tests)
 - Docker
 - Serilog
    
